@@ -3,7 +3,7 @@ The Most Widely Known Encryption Technique
 
 ## Demo
 
-![Screen cast of caesar cipher](./img/demo/demo-part1.gif)
+![Screen cast of caesar cipher](./img/demo/demo.gif)
 
 ## General Info
 
