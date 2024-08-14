@@ -22,6 +22,8 @@ The Most Widely Known Encryption Technique
 
 > This was an easy project. I learned a whole lot about installing Ruby and all the different basic Ruby tidbits prior to starting this project. A quick overview of the Wikipedia article on the Caesar Cipher gave me everything there is know about this project.
 
+> I did make some extra configurations upon revisiting this project. Not all changes were made because the significance of the project is not that monumental, however, I did include several different aspects of project management, linting, and formatting as per the norms.
+
 ## Contact and Support
 
 + Feel free to contact ***mitrohgr_03505*** on discord for project-related queries.
